@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AS-DarkCode&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AS-DarkCode&theme=matrix&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <!--
@@ -41,8 +41,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Payment Gateway
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
