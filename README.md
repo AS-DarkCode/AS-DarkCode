@@ -32,9 +32,8 @@
   </a>
 </p>
 
-<p align ="center"> 
-<a href="[![trophy](https://github-profile-trophy.vercel.app/?username=AS-DarkCode)](https://github.com/ryo-ma/github-profile-trophy)
-  </a>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AS-DarkCode&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <!--
