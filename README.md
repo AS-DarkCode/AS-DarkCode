@@ -33,8 +33,8 @@
 </p>
 
 <p align ="center"> 
-  <a href = "https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=A)>
-  <img src = "https://github.com/ryo-ma/github-profile-trophy/>
+  <a href = "https://github-profile-trophy.vercel.app/?username=AS_DarkCode&column=8&rank=A)>
+  <img src = "https://github.com/AS-DarkCode/github-profile-trophy"/>
   </a>
 </p>
 
