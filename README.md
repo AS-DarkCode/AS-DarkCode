@@ -21,10 +21,6 @@
 I'm looking for sponsors to help us keep up with this service❤️
 </p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AS-DarkCode&theme=matrix&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
 <!--
 **AS-DarkCode/AS-DarkCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,6 +49,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=as-darkcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=as-darkcode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=as-darkcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AS-DarkCode&theme=matrix&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=as-darkcode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
