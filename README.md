@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Full Stack Devloper.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Learning Laravel and Kali linux.<br><br>💬 **Ask me about:**  <br>C, C++, HTML, CSS, BOOTSTRAP, JS, MYSQL, PHP.<br><br>⚡ **Fun fact:**  <br>I love programming content.
+🔭 **I’m currently working on:**  <br>PHP Devloper.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Learning Laravel and Kali linux.<br><br>💬 **Ask me about:**  <br>C, C++, HTML, CSS, BOOTSTRAP, JS, MYSQL, PHP.<br><br>⚡ **Fun fact:**  <br>I love programming content.
 
 
 ## 🌐 Socials:
