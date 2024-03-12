@@ -8,7 +8,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+  <a href="https://github.com/as-darkcode/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
