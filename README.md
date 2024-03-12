@@ -5,7 +5,7 @@
   <p align="center">🏆Always free for you --  </p>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+  <a href="https://github.com/as-darkcode/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
   </a>
   <a href="https://github.com/as-darkcode/github-profile-trophy/network/members">
