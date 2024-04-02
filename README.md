@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height = "100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkd3c1ZTF0c2FpcWtlbzN1N3pwYzlwemx5MHJlaWxncHdxdjY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img width="50%" height = "100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkd3c1ZTF0c2FpcWtlbzN1N3pwYzlwemx5MHJlaWxncHdxdjY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
   <h2 align="center">✨ AS-DarkCode ✨</h2>
    <h3 align="center">😄 Akash Sharma 😄</h3>
   <p align="center">🏆Always free for you --  </p>
