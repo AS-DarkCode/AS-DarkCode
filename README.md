@@ -7,10 +7,6 @@
 <p align="center">
 🏆Always free for you --  ❤️
 </p>
-<!-- 	https://fontmeme.com/temporary/c5588b7cb7468397b044ff516dac0765.png -->
-<!--
-**AS-DarkCode/AS-DarkCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Payment Gateway
@@ -47,4 +43,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=as-darkcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
