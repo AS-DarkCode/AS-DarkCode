@@ -1,7 +1,7 @@
 <p align="center">
   <img width="50%" height = "100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkd3c1ZTF0c2FpcWtlbzN1N3pwYzlwemx5MHJlaWxncHdxdjY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius: 20px;"/>
   <h2 align="center">✨ AS-DarkCode ✨</h2>
-   <h3 align="center">😄 Akash Sharma 😄</h3>
+   <h3 align="center">😄 "Decoding the Future, Line by Line." 😄</h3>
   <p align="center">🏆Always free for you --  </p>
 </p>
 <p align="center">
