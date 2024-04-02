@@ -5,20 +5,6 @@
   <p align="center">🏆Always free for you --  </p>
 </p>
 <p align="center">
-  <a href="https://github.com/as-darkcode/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/as-darkcode/github-profile-trophy"/>
-  </a>
-  <a href="https://github.com/as-darkcode/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/as-darkcode/github-profile-trophy"/>
-  </a>
-  <a href="https://github.com/as-darkcode/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/as-darkcode/github-profile-trophy"/>
-  </a>
-    <a href="https://github.com/as-darkcode/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/as-darkcode/github-profile-trophy"/>
-  </a>
-</p>
-<p align="center">
 I'm looking for sponsors to help us keep up with this service❤️
 </p>
 
