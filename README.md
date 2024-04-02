@@ -2,12 +2,12 @@
   <img width="50%" height = "100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkd3c1ZTF0c2FpcWtlbzN1N3pwYzlwemx5MHJlaWxncHdxdjY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius: 20;"/>
   <h2 align="center">✨ AS-DarkCode ✨</h2>
    <h3 align="center">😄 "Decoding the Future, Line by Line." 😄</h3>
-  <p align="center">🏆Always free for you --  </p>
+  <p align="center"><img width="100%" height = "10%" src="https://fontmeme.com/temporary/c5588b7cb7468397b044ff516dac0765.png" style="border-radius: 20;"/></p>
 </p>
 <p align="center">
-I'm looking for sponsors to help us keep up with this service❤️
+🏆Always free for you --  ❤️
 </p>
-
+	https://fontmeme.com/temporary/c5588b7cb7468397b044ff516dac0765.png
 <!--
 **AS-DarkCode/AS-DarkCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
