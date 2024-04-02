@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140" src="https://mega.nz/file/qv5SARQa#F2Bi_NJtlKVLAqNCde_yN4XISbyBRWzT4YMv8plPdhc" />
+  <img width="140" height = "100%" src="https://mega.nz/file/qv5SARQa#F2Bi_NJtlKVLAqNCde_yN4XISbyBRWzT4YMv8plPdhc" />
   <h2 align="center">✨ AS-DarkCode ✨</h2>
    <h3 align="center">😄 Akash Sharma 😄</h3>
   <p align="center">🏆Always free for you --  </p>
