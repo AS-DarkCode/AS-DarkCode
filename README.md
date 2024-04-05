@@ -3,7 +3,7 @@
   <h2 align="center">✨ AS-DarkCode ✨</h2>
    <h3 align="center">😄 "Decoding the Future, Line by Line." 😄</h3>
 <!-- <p align="center"><img src="https://fontmeme.com/temporary/482e8f8f2a71a0d705d6780652f3f239.png" width="350" height="50"/></p> -->
-<p align="center"><img src="https://fontmeme.com/temporary/b12d4269ebe303b74d1ccd56672a8425.png" width="350" height="50"/></p>
+<p align="center" color="red" font-weight="500">𝒥𝒶𝒾 𝒮𝒽𝓇𝑒𝑒 𝑀𝒶𝒽𝒶𝓀𝒶𝒶𝓁</p>
 </p>
 <p align="center">
 🏆Always free for you --  ❤️
